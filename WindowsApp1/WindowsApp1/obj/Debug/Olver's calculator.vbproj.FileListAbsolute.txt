@@ -1,0 +1,28 @@
+F:\Pakiki\WindowsApp1\WindowsApp1\bin\Debug\Oliver's Calculator.exe.config
+F:\Pakiki\WindowsApp1\WindowsApp1\bin\Debug\Oliver's Calculator.exe
+F:\Pakiki\WindowsApp1\WindowsApp1\bin\Debug\Oliver's Calculator.pdb
+F:\Pakiki\WindowsApp1\WindowsApp1\bin\Debug\Oliver's Calculator.xml
+F:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Olver's calculator.vbprojAssemblyReference.cache
+F:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.AboutBox1.resources
+F:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+F:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+F:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+F:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Olver's calculator.vbproj.GenerateResource.cache
+F:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Olver's calculator.vbproj.CoreCompileInputs.cache
+F:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Oliver's Calculator.exe
+F:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Oliver's Calculator.xml
+F:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Oliver's Calculator.pdb
+E:\Pakiki\WindowsApp1\WindowsApp1\bin\Debug\Oliver's Calculator.exe.config
+E:\Pakiki\WindowsApp1\WindowsApp1\bin\Debug\Oliver's Calculator.exe
+E:\Pakiki\WindowsApp1\WindowsApp1\bin\Debug\Oliver's Calculator.pdb
+E:\Pakiki\WindowsApp1\WindowsApp1\bin\Debug\Oliver's Calculator.xml
+E:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Olver's Calculator.vbprojAssemblyReference.cache
+E:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.AboutBox1.resources
+E:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+E:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Olver's Calculator.vbproj.GenerateResource.cache
+E:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Olver's Calculator.vbproj.CoreCompileInputs.cache
+E:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Oliver's Calculator.exe
+E:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Oliver's Calculator.xml
+E:\Pakiki\WindowsApp1\WindowsApp1\obj\Debug\Oliver's Calculator.pdb
